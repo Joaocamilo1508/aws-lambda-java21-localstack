@@ -312,6 +312,6 @@ Junior Backend Developer | Java | Cloud | AWS | Salesforce
 
 ### Connect with me
 
-- LinkedIn: *(add your LinkedIn URL)*
-- GitHub: *(add your GitHub profile URL)*
+- LinkedIn: *(www.linkedin.com/in/joãoestevaocamilo)*
+
 
