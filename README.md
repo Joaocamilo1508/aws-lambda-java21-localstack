@@ -1,32 +1,35 @@
-<p align="center" width="100%">
-    <img width="30%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
-</p>
+# 🚀 AWS Lambda Java 21 com LocalStack
 
+Projeto de estudo demonstrando como criar e executar uma AWS Lambda localmente utilizando **Java 21**, **LocalStack**, **Docker** e **Maven**, simulando um ambiente AWS sem necessidade de deploy em nuvem.
 
-<h3 align="center">
-  Exemplo de AWS Lambda em Java para iniciantes
-</h3>
+O objetivo deste projeto é demonstrar como desenvolver, empacotar e executar funções Lambda localmente, criando uma base prática para estudos em **Serverless**, **Cloud Computing** e **AWS**.
 
-<p align="center">
+---
 
-  <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-%2304D361">
-  <img alt="Language: Java" src="https://img.shields.io/badge/language-java-green">
-  <img alt="Version: 1.0" src="https://img.shields.io/badge/version-1.0-yellowgreen">
+## 📌 Objetivo do projeto
 
-</p>
+Este projeto foi criado para praticar o desenvolvimento de aplicações **Serverless** utilizando **AWS Lambda**, executando tudo localmente através do **LocalStack**, sem custos de infraestrutura em nuvem.
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=TBD)
+Durante o desenvolvimento, foram abordados temas como:
 
-## :rocket: Tecnologias utilizadas
+- Criação de AWS Lambda em Java 21
+- Configuração do LocalStack
+- Simulação de serviços AWS localmente
+- Empacotamento da aplicação com Maven Shade Plugin
+- Deploy de uma Lambda via arquivo `.jar`
+- Configuração de IAM Role
+- Testes locais da Lambda
+- Troubleshooting de problemas reais encontrados durante a implementação
 
-* Java 21
-* AWS Lambda Core
-* AWS Lambda Events
-* Jackson
-* JUnit
+---
 
-:mag: Baixe o projeto e teste você mesmo na prática.
+## 🛠️ Tecnologias Utilizadas
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
-
-Developed by Build & Run
+- Java 21
+- AWS Lambda
+- LocalStack
+- Docker Desktop
+- Maven
+- IntelliJ IDEA
+- Jackson ObjectMapper
+- AWS Lambda Java Events
