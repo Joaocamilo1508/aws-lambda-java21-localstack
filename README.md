@@ -33,7 +33,7 @@ After uploading the `.jar` file, the Lambda can be tested directly inside LocalS
 
 This function was designed to simulate a simple authentication flow.
 
-### Valid request payload
+### Valid request payload.
 
 Example request:
 
