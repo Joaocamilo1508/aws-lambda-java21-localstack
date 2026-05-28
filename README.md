@@ -308,7 +308,7 @@ Through this project, the following concepts were practiced:
 
 **João Estevão Camilo**
 
-Junior Backend Developer | Java | Cloud | AWS | Salesforce
+Junior Backend Developer | Java | Cloud | AWS 
 
 ### Connect with me
 
